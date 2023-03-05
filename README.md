@@ -9,3 +9,5 @@ science models). Preliminary results for getting the first few lowest states are
 linked in this repository. 
 
 Language used is Python Qiskit, compatible with IBM quantum computers. 
+
+Open quantum system walk documentation at: https://www.overleaf.com/project/636d711f81310b0cd8b37e65
